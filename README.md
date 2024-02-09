@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Y NARESH BABU
+# Hello there 👋, I'm Naresh babu Y
 
 ### Software/DevOps/Platform Engineer
 
