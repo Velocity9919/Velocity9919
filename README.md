@@ -143,16 +143,6 @@
     </tr>
 </table>
 
-
-<br/>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
-
 ### My GitHub Stats
 
 <table>
@@ -174,11 +164,6 @@
     </tr>
 </table>
 
-
-
-
-<!--
-**colinbut/colinbut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
