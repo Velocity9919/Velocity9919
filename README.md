@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: __DevOps/Site Reliability & Platform Engineering__ 
 - 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
 - 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+- ⚡ Fun fact: ......
 
 ### Toolset
 
